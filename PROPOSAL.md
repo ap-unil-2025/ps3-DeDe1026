@@ -1,6 +1,4 @@
-Here is a draft ~300 words in markdown (you can directly copy paste into your .md):
 
----
 
 # Monte-Carlo simulator or when the namesake city is no longer about gambling.
 
